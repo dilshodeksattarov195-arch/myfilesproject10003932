@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderrelete",
+        "uuid": 4474616,
+        "checksum": "vn2gj8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
